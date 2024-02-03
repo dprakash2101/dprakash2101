@@ -31,5 +31,14 @@ jobs:
           git config user.name "dprakash2101"
           git config user.email "${{secrets.EMAIL}}"
           git add README.md
-          git commit -m "Update README"
-          git push
+          if git diff --quiet; then
+            echo "No changes in README. Skipping update."
+            echo "::set-output name=changes::false"
+          else
+            echo "README has changes. Proceeding with update."
+            echo "::set-output name=changes::true"
+            git add README.md
+            git commit -m "Update README"
+            git push
+          fi
+        
