@@ -9,6 +9,7 @@ async function fetchGitHubStats(username) {
 
 // Function to generate updated markdown with GitHub stats
 function generateUpdatedMarkdown(stats) {
+  // Customize this part based on the data you want to display
   return `
 
   ## 🌐 Socials:
@@ -40,29 +41,18 @@ function generateUpdatedMarkdown(stats) {
   
   ---
   [![](https://visitcount.itsvg.in/api?id=dprakash2101&icon=0&color=1)](https://visitcount.itsvg.in)
-  
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+`;
+}
 
 // Main script to fetch stats, generate markdown, and update README
 async function updateReadme() {
   const username = 'dprakash2101';  // Replace with your GitHub username
   const stats = await fetchGitHubStats(username);
   const updatedMarkdown = generateUpdatedMarkdown(stats);
-
-  // Read the current content of README.md
-  const currentReadme = fs.readFileSync('README.md', 'utf-8');
-
-  // Check if the content has changed
-  if (currentReadme !== updatedMarkdown) {
-    // Write the updated markdown to README.md
-    fs.writeFileSync('README.md', updatedMarkdown);
-    
-    // Commit changes only if the content has changed
-    // You can add your Git configuration here
-    // Example: git add README.md && git commit -m "Update README" && git push
-  } else {
-    console.log('No changes in README. Skipping commit.');
-  }
+  
+  // Write the updated markdown to README.md
+  fs.writeFileSync('README.md', updatedMarkdown);
 }
 
 // Run the updateReadme function
