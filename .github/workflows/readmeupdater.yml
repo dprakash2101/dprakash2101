@@ -7,7 +7,6 @@ on:
     branches:
       - main
 
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -27,17 +26,10 @@ jobs:
       - name: Run script to update README
         run: npm run update-readme
 
-      - name: Check if README has changed
-        id: check-changes
-        run: |
-          git diff --quiet || echo "README has changes"
-        continue-on-error: true
-
       - name: Commit and push changes
-        if: steps.check-changes.outputs.result == 'README has changes'
         run: |
-          git config user.name "dprakash2101"
-          git config user.email "${{secrets.EMAIL}}"
+          git config user.name "Your GitHub Username"
+          git config user.email "your.email@example.com"
           git add README.md
           git commit -m "Update README"
           git push
