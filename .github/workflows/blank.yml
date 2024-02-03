@@ -1,0 +1,39 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script to update README
+        run: npm run update-readme
+
+      - name: Check if README has changed
+        id: check-changes
+        run: |
+          git diff --quiet || echo "README has changes"
+        continue-on-error: true
+
+      - name: Commit and push changes
+        if: steps.check-changes.outputs.result == 'README has changes'
+        run: |
+          git config user.name "dprakash2101"
+          git config user.email "${{secrets.EMAIL}}"
+          git add README.md
+          git commit -m "Update README"
+          git push
