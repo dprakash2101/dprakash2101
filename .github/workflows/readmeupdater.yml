@@ -36,8 +36,7 @@ jobs:
             echo "::set-output name=changes::false"
           else
             echo "README has changes. Proceeding with update."
-            echo "::set-output name=changes::true"
-            git add README.md
+            git add .
             git commit -m "Update README"
             git push
           fi
