@@ -19,6 +19,16 @@
 # 📈 GitHub Streak:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dprakash2101&theme=dark&hide_border=false&custom_title=GitHub%20Streak&layout=compact&theme=dark&hide_border=false&count_private=true)
 
+## 📅 GitHub Contribution Calendar
+
+![GitHub Contribution Calendar](https://ghchart.rshah.org/dprakash2101)
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dprakash2101)
+
+
+
 # 🔥 Top Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dprakash2101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Languages&card_width=300)
 
