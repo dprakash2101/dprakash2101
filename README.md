@@ -21,11 +21,14 @@
 
 ## 📅 GitHub Contribution Calendar
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/dprakash2101)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/dprakash2101?theme=dark)
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dprakash2101)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dprakash2101&bg_color=0b0909&color=0853e7&line=e00b0b&point=430dd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## ⏱️ Code Time Summary
+
+![Code Time Summary](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1443?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 
 
