@@ -23,10 +23,6 @@
 # 📈 GitHub Streak:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dprakash2101&theme=dark&hide_border=false&custom_title=GitHub%20Streak&layout=compact&theme=dark&hide_border=false&count_private=true)
 
-## 📅 GitHub Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/dprakash2101?theme=dark)
-
 
 
 
