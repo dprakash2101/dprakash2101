@@ -1,4 +1,9 @@
+# S V S K Devi Prakash Kandikonda
+👋 Hey there! I'm Devi Prakash Kandikonda, a passionate software developer with a diverse tech stack. From crafting C# applications to exploring the realms of Python and JavaScript, I love diving into various technologies. My journey in coding extends to languages like C++, C, and the exciting world of. NET.
 
+💻 My playground includes Node.js, Express.js, MongoDB, Microsoft SQL Server, and Arduino. I thrive on turning ideas into reality and building solutions that make an impact. Whether it's web development, IoT projects, or database management, I enjoy the challenge of creating robust and innovative solutions.
+
+📊 Check out my GitHub stats! I'm committed to continuous improvement, evident in my GitHub streaks and top contributed repositories. Always open to collaboration and learning, I believe in the power of community and the endless possibilities technology brings.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194/) 
 
