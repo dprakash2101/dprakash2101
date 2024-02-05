@@ -17,8 +17,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dprakash2101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dprakash2101&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dprakash2101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 📈 GitHub Streak:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dprakash2101&theme=dark&hide_border=false&custom_title=GitHub%20Streak&layout=compact&theme=dark&hide_border=false&count_private=true)
