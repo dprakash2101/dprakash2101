@@ -8,7 +8,7 @@
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dprakash2101&bg_color=0b0909&color=0853e7&line=e00b0b&point=430dd9&area=true&hide_border=true)]
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dprakash2101&bg_color=0b0909&color=0853e7&line=e00b0b&point=430dd9&area=true&hide_border=true)
 
 
 
