@@ -51,6 +51,8 @@
 </a>
   
 ## 📊 GitHub Stats
+<br>
+<p align="center"
 <a href="https://github.com/dprakash2101">
   <img align="center" margin="0.5rem" height="210px" width="450px" src="https://github-readme-stats.vercel.app/api?username=dprakash2101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Devi's GitHub Stats" />
 </a>
