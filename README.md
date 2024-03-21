@@ -30,7 +30,7 @@
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194)
 
 ## 📊 GitHub Streaks
 
