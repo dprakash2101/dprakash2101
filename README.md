@@ -80,3 +80,5 @@
 </a>
 </p>
 <br>
+![](https://raw.githubusercontent.com/dprakash2101/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dprakash2101/github-stats/master/generated/languages.svg#gh-dark-mode-only)
