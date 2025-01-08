@@ -44,7 +44,7 @@ Feel free to check it out [here](https://github.com/marketplace/actions/check-fo
 <br>
 <p align="center" >
 <a href="https://github.com/dprakash2101">
-<img width='700'  src="https://streak-stats.demolab.com/?user=dprakash2101&theme=vue-dark&background=1A2B34" alt="GitHub Streak" />
+<img width='700'  src="https://streak-stats.demolab.com/?user=dprakash2101&theme=vue-dark" alt="GitHub Streak" />
 </a>
 </p>
 <br>
