@@ -1,4 +1,4 @@
-# Surya Venkata Sai Krishna Devi Prakash Kandikonda
+# Devi Prakash Kandikonda
 👋 Hey there! I'm Devi Prakash Kandikonda, a passionate software developer with a diverse tech stack. From crafting C# applications to exploring the realms of Python and JavaScript, I love diving into various technologies. My journey in coding extends to languages like C++, C, and the exciting world of. NET.
 
 ### 💻 My playgrounds
