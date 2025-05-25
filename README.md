@@ -14,11 +14,7 @@
 </p>
 </br>
 
-## 🔍 Checkout This Project!
 
-I created a GitHub Action called **Check for Hardcoded IPs** that helps you find hardcoded IP addresses in your code. This action scans specified directories in your repository and ensures your code quality and security. 
-
-Feel free to check it out [here](https://github.com/marketplace/actions/check-for-hardcoded-ips)!
 
 
 ## 💻 Tech Stack
