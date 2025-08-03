@@ -1,5 +1,7 @@
 # Hi there, I'm Devi Prakash Kandikonda 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dprakash2101" alt="dprakash2101" /> </p>
+
 I'm a passionate software developer with a love for exploring a diverse range of technologies. I enjoy building applications with C# and diving into the worlds of Python and JavaScript. My experience also includes C++, C, and the .NET framework.
 
 ---
@@ -8,9 +10,27 @@ I'm a passionate software developer with a love for exploring a diverse range of
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,javascript,cpp,c,dotnet,nodejs,express,mongodb,mysql,arduino,jira,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,python,javascript,typescript,cpp,c,dotnet,nodejs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,arduino,jira,postman" />
   </a>
 </p>
+
+---
+
+### My Projects
+
+#### Falcon Linter
+*   **Overview:** `falcon-linter` is a command-line interface (CLI) tool that uses Google's Gemini AI to automate code reviews for pull requests on GitHub and Bitbucket. Its main goal is to provide senior-engineer-level feedback directly in PR comments to help improve code quality and mentor developers.
+*   **Links:**
+    *   NPM: https://www.npmjs.com/package/falcon-linter
+    *   GitHub: https://github.com/dprakash2101/falcon-linter
+
+#### GeminiSharp
+*   **Overview:** GeminiSharp is a C# client SDK for interacting with Google's Gemini API, allowing developers to integrate Gemini's text and structured data generation into .NET applications. It provides features like a simple client, API key authentication, configurable model selection, and robust error handling.
+*   **Links:**
+    *   GitHub: https://github.com/dprakash2101/GeminiSharp
+    *   Docs: https://dprakash2101.github.io/GeminiSharp/
 
 ---
 
@@ -54,5 +74,7 @@ I'm a passionate software developer with a love for exploring a diverse range of
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-v-s-k-devi-prakash-kandikonda-44a09b194" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
