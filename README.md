@@ -1,6 +1,5 @@
 # Hi there, I'm Devi Prakash Kandikonda 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dprakash2101" alt="dprakash2101" /> </p>
 
 I'm a passionate software developer with a love for exploring a diverse range of technologies. I enjoy building applications with C# and diving into the worlds of Python and JavaScript. My experience also includes C++, C, and the .NET framework.
 
