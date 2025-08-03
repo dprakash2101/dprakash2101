@@ -8,17 +8,74 @@ I'm a passionate software developer with a love for exploring a diverse range of
 
 ### 🚀 My Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,javascript,typescript,cpp,c,dotnet,nodejs" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,arduino,jira,postman" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 ---
 
-### My Projects
+### My Latest Projects
 
 #### Falcon Linter
 *   **Overview:** `falcon-linter` is a command-line interface (CLI) tool that uses Google's Gemini AI to automate code reviews for pull requests on GitHub and Bitbucket. Its main goal is to provide senior-engineer-level feedback directly in PR comments to help improve code quality and mentor developers.
