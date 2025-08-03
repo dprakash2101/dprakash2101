@@ -1,85 +1,136 @@
-# Devi Prakash Kandikonda
-👋 Hey there! I'm Devi Prakash Kandikonda, a passionate software developer with a diverse tech stack. From crafting C# applications to exploring the realms of Python and JavaScript, I love diving into various technologies. My journey in coding extends to languages like C++, C, and the exciting world of. NET.
+# Hi there, I'm Devi Prakash Kandikonda 👋
 
-### 💻 My playgrounds
 
-<p>
-<ul>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>MongoDB</li>
-<li>Microsoft SQL Server</li>
-<li>Arduino</li>
-</ul>
+I'm a passionate software developer with a love for exploring a diverse range of technologies. I enjoy building applications with C# and diving into the worlds of Python and JavaScript. My experience also includes C++, C, and the .NET framework.
+
+---
+
+### 🚀 My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+---
+
+### My Latest Projects
+
+#### Falcon Linter
+*   **Overview:** `falcon-linter` is a command-line interface (CLI) tool that uses Google's Gemini AI to automate code reviews for pull requests on GitHub and Bitbucket. Its main goal is to provide senior-engineer-level feedback directly in PR comments to help improve code quality and mentor developers.
+*   **Links:**
+    *   NPM: https://www.npmjs.com/package/falcon-linter
+    *   GitHub: https://github.com/dprakash2101/falcon-linter
+
+#### GeminiSharp
+*   **Overview:** GeminiSharp is a C# client SDK for interacting with Google's Gemini API, allowing developers to integrate Gemini's text and structured data generation into .NET applications. It provides features like a simple client, API key authentication, configurable model selection, and robust error handling.
+*   **Links:**
+    *   GitHub: https://github.com/dprakash2101/GeminiSharp
+    *   Docs: https://dprakash2101.github.io/GeminiSharp/
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/dprakash2101">
+    <img src="https://github-readme-stats.vercel.app/api?username=dprakash2101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Devi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/dprakash2101">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprakash2101&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Devi's GitHub Stats" />
+  </a>
 </p>
-</br>
 
-
-
-
-## 💻 Tech Stack
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📈 GitHub Activity Graph
-
-<br>
-<p align="center" >
-<a href="https://github.com/dprakash2101">
-<img width='900'  src="https://github-readme-activity-graph.vercel.app/graph?username=dprakash2101&bg_color=0b0909&color=0853e7&line=e00b0b&point=430dd9&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</a>
-</p>
-<br>
-
-## 🌐 Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194)
-
-## 📊 GitHub Streaks
-
-<br>
-<p align="center" >
-<a href="https://github.com/dprakash2101">
-<img width='700'  src="https://streak-stats.demolab.com/?user=dprakash2101&theme=vue-dark" alt="GitHub Streak" />
-</a>
-</p>
-<br>
-
-## 📊 Most Used Languages
-
-<br>
-<p align="center" >
-<a href="https://github.com/dprakash2101">
-  <img align="center" margin="0.5rem" height="210px" width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprakash2101&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Devi's GitHub Stats" />
-</a>
-  
-## 📊 GitHub Stats
-<br>
-<p align="center"
-<a href="https://github.com/dprakash2101">
-  <img align="center" margin="0.5rem" height="210px" width="450px" src="https://github-readme-stats.vercel.app/api?username=dprakash2101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Devi's GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/dprakash2101">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dprakash2101&bg_color=0b0909&color=0853e7&line=e00b0b&point=430dd9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
-<p align='center'>
-<br>
-
-## 🏆 GitHub Trophies
-
-<br>
-<p align="center" >
-<a href="https://github.com/dprakash2101">
-<img width='900'  src="https://github-profile-trophy.vercel.app/?username=dprakash2101&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
+<p align="center">
+  <a href="https://github.com/dprakash2101">
+    <img src="https://streak-stats.demolab.com/?user=dprakash2101&theme=vue-dark" alt="GitHub Streak" />
+  </a>
 </p>
-<br>
 
-## 🔝 Top Contributed Repo
-
-<br>
-<p align="center" >
-<a href="https://github.com/dprakash2101">
-<img width='500'  src="https://github-contributor-stats.vercel.app/api?username=dprakash2101&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
-</a>
+<p align="center">
+  <a href="https://github.com/dprakash2101">
+    <img src="https://github-profile-trophy.vercel.app/?username=dprakash2101&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
-<br>
+
+<p align="center">
+  <a href="https://github.com/dprakash2101">
+    <img src="https://github-contributor-stats.vercel.app/api?username=dprakash2101&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
