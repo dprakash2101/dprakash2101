@@ -28,21 +28,6 @@ I build high-performance backend systems and interactive frontends.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/dprakash2101">
-    <img src="https://github-readme-stats.vercel.app/api?username=dprakash2101&show_icons=true&theme=tokyonight&count_private=true" height="175px" alt="Devi's GitHub Stats" />
-  </a>
-  <a href="https://github.com/dprakash2101">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprakash2101&layout=compact&theme=tokyonight&hide=html,css" height="175px" alt="Devi's Top Langs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dprakash2101">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dprakash2101&theme=tokyonight&area=true&hide_border=true" width="100%" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=dprakash2101&theme=tokyonight" width="100%" alt="GitHub Streak" />
 </p>
 
