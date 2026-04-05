@@ -22,4 +22,4 @@ C# SDK for integrating Google Gemini into .NET applications.
 
 ## Stack
 
-C# · .NET · Python · FastAPI · React · GCP · PostgreSQL
+C# · .NET · Python · FastAPI · React · GCP · PostgreSQL · Github Actions · Bitbucket Pipelines
