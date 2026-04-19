@@ -1,25 +1,23 @@
-# Devi Prakash
+# hey, I'm Devi Prakash 👋
 
-Backend engineer working at the intersection of .NET, Python, and AI tooling.
-I build systems that automate the tedious parts of software development.
+Backend engineer. I work with .NET, Python, and GCP — mostly building APIs, SDKs, and tools that make other engineers' lives easier.
 
-[Portfolio](https://dprakash2101.github.io/devi-prakash-portfolio/) · [LinkedIn](https://www.linkedin.com/in/s-v-s-k-devi-prakash-kandikonda-44a09b194)
-
----
-
-## Projects
-
-**[Falcon Linter](https://github.com/dprakash2101/falcon-linter)**
-AI-powered CLI for automated code reviews across GitHub and Bitbucket.
-
-**[spec_drift_agent](https://github.com/dprakash2101/spec_drift_agent)**
-CLI tool that detects drift between live API behaviour and OpenAPI specs.
-
-**[GeminiSharp](https://github.com/dprakash2101/GeminiSharp)**
-C# SDK for integrating Google Gemini into .NET applications.
+[portfolio](https://dprakash2101.github.io/devi-prakash-portfolio/) · [linkedin](https://www.linkedin.com/in/devi-prakash-kandikonda/)
 
 ---
 
-## Stack
+### things I've built
 
-C# · .NET · Python · FastAPI · React · GCP · PostgreSQL · Github Actions · Bitbucket Pipelines
+**[GeminiSharp](https://github.com/dprakash2101/GeminiSharp)** — C# SDK for Google Gemini · 2,500+ NuGet downloads  
+**[spec_drift_agent](https://github.com/dprakash2101/spec_drift_agent)** — detects drift between live API behaviour and OpenAPI specs  
+**[falcon-linter](https://github.com/dprakash2101/falcon-linter)** — AI-powered code review CLI for GitHub and Bitbucket  
+
+---
+
+### stack
+
+`C#` `.NET` `Python` `GCP` `FastAPI` `Docker` `GitHub Actions`
+
+---
+
+*on weekends I vibe code whatever sounds interesting*
