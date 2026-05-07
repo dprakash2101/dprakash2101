@@ -20,4 +20,4 @@ Backend engineer. I work with .NET, Python, and GCP — mostly building APIs, SD
 
 ---
 
-*on weekends I vibe code whatever sounds interesting*
+*on weekends I experiment, iterate, and build things I’d actually use*
