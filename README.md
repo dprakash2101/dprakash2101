@@ -2,7 +2,6 @@
 
 Backend engineer based in Hyderabad. I build APIs, SDKs, and developer tooling — mostly with .NET, Python, and GCP.
 
-Currently open to backend and platform engineering roles.
 
 [Portfolio](https://dprakash2101.github.io/devi-prakash-portfolio/) · [LinkedIn](https://www.linkedin.com/in/devi-prakash-kandikonda/)
 
